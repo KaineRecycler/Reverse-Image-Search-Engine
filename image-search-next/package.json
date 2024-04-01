@@ -23,7 +23,7 @@
     "@sanity/image-url": "^1.0.1",
     "@types/nodemailer": "^6.4.6",
     "@types/react-lottie": "^1.2.6",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "clsx": "^1.2.1",
     "daisyui": "^2.51.6",
     "date-fns": "^2.29.3",
